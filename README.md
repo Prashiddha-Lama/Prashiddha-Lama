@@ -10,7 +10,7 @@ I enjoy working on real-world datasets, asking the “why” behind the numbers,
 
 
 ## 🔗 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/Prashiddha-Lama)
+- 💼 [LinkedIn](www.linkedin.com/in/prashiddhalama)
 - 📧 Email: prashiddha.lama@gmail.com
 
 # 💻 Tech Stack:
