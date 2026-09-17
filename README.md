@@ -14,15 +14,14 @@ A logistic regression model for cardiovascular risk. The dataset was heavily imb
 
 ## Tech stack
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `LightGBM` `SQL` `Power BI` `Tableau` `SAS Viya` `Excel`
+**Languages & scripting**
+`Python` `SQL` `DAX`
 
-## GitHub stats
+**Data & ML**
+`Pandas` `NumPy` `Scikit-learn` `XGBoost` `LightGBM`
 
-![Prashiddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashiddha-Lama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak stats](https://nirzak-streak-stats.vercel.app/?user=Prashiddha-Lama&theme=dark&hide_border=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashiddha-Lama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![Visitor count](https://visitcount.itsvg.in/api?id=Prashiddha-Lama&icon=0&color=0)](https://visitcount.itsvg.in)
+**BI & visualization**
+`Power BI` `Tableau` `SAS Viya` `Excel`
 
 ## Reach me
 
